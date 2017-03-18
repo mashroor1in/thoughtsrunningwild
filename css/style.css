@@ -113,8 +113,13 @@ a:link {
 }
 
 
+.pagination{
 
+	padding-top:150px; 
+	padding-bottom: 10px;
+	
+}
 
-
-
-
+.small{
+	text-align: right;
+}
